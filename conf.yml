@@ -1,0 +1,5 @@
+name: /dev/pts/4
+baud: 115200
+databits: 0
+parity: None
+stopbits: 1
